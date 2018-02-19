@@ -1,2 +1,2 @@
-# node-shopping-cart
+# Node Express Shopping Cart
 A Node E-Commerce Solutions
